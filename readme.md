@@ -1,0 +1,3 @@
+-Install vagrant and start the data base (news)
+-execute the python file
+-an error message will most likely be inquired about psycopg-2 binary which can be avoided by installing it through pip- install psycopg2-binary
